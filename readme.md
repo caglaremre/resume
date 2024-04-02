@@ -14,22 +14,18 @@
  - Monitored and managed incidents and alerts utilizing NewRelic.
 
 **Technical Support Engineer** @ [Neurocom](https://neurocom.com.au/) _(2022 Jun - 2023 Sep)_  
-lorem ipsum
  - Created an automation script to alert people working in shift.
  - Created a data migration script for Clickhouse.
 
 **QA Engineer** @ [Bentego](https://bentego.com/) _(2021 Nov - 2022 Jun)_  
-lorem ipsum
  - Worked with developers to test developments on PEGA platform.
  - Participated in end to end and regression tests for newly developed APIs.
 
 **Software Development Engineer in Test** @ [Payten](https://www.payten.com/en/) _(2020 Sep - 2021 Aug)_  
-lorem ipsum
  - Created new test cases for automation project.
  - Tested new changes and fixes with operation team.
 
-**Application Support & Administrator** @ [Payten](https://www.payten.com/en/) _(2016 Jul - 2020 Sep)_  
-lorem ipsum
+**Application Support & Administrator** @ [Payten](https://www.payten.com/en/) _(2016 Jul - 2020 Sep)_
  - Managed 3rd party 3D secure authentication application.
  - Provided support for 3D secure authentication in domestic market.
  - Managed SSL certificates to connect card providers (Visa, etc.) for multiple banks.
@@ -41,11 +37,9 @@ lorem ipsum
  - Trained new hires.
 
 **Service Desk Specialist** @ [Payten](https://www.payten.com/en/) _(2014 Oct - 2016 Jul)_  
-lorem ipsum
  - Helped international customers with integration to SAAS system.
  - Partipated and helped in new bank integration with processor (Visa & Mastercard) tests.
  - Helped developer teams with testing new releases.
-
 
 ## 📜Certificates
 
