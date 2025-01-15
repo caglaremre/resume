@@ -18,15 +18,15 @@
  - Conducted thorough investigations into incidents and alerts utilizing New Relic, minimizing downtime and optimizing system performance.
  - Monitored and managed incidents and alerts, ensuring prompt resolution to operational issues.
 
-**Technical Support Engineer** @ [Neurocom](https://neurocom.com.au/) _(2022 Jun - 2023 Sep)_  
+**Technical Support Engineer** @ [Neurocom](https://neurocom.com.au/) _(2022 Jun - 2023 Sep)_
  - Developed automation scripts to streamline shift notification and a data migration script for Clickhouse, improving operational efficiency.
  - Participated in the testing process to ensure the quality and functionality of newly developed features.
 
-**QA Engineer** @ [Bentego](https://bentego.com/) _(2021 Nov - 2022 Jun)_  
+**QA Engineer** @ [Bentego](https://bentego.com/) _(2021 Nov - 2022 Jun)_
  - Collaborated with developers to test PEGA platform functionalities through end-to-end and regression testing of new APIs
  - Participated in end to end and regression tests for newly developed APIs.
 
-**Software Development Engineer in Test** @ [Payten](https://www.payten.com/en/) _(2020 Sep - 2021 Aug)_  
+**Software Development Engineer in Test** @ [Payten](https://www.payten.com/en/) _(2020 Sep - 2021 Aug)_
  - Created new test cases to automate testing processes, enhancing test coverage and reducing manual effort.
  - Collaborated with operations teams to test new features and fixes, ensuring smooth deployment.
 
@@ -39,29 +39,45 @@
  - Monitored system health and performance using diverse monitoring tools.
  - Trained new hires on application support procedures.
 
-**Service Desk Specialist** @ [Payten](https://www.payten.com/en/) _(2014 Oct - 2016 Jul)_  
+**Service Desk Specialist** @ [Payten](https://www.payten.com/en/) _(2014 Oct - 2016 Jul)_
  - Assisted international customers with successful integration to SaaS systems.
  - Participated in testing new bank integrations with processors (Visa & Mastercard) and provided support to development teams during new release testing.
 
 ## Certificates
 
-**[AWS Certified Cloud Practitioner](https://www.credly.com/badges/087d6f33-aac3-46a4-b944-91afa101e11b/)**
+**[AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/SM0LXEQK4MF1Q155)**
 
 ## Skills
 
 ### Technology
-|         |           |           |         |
-|---------|-----------|-----------|---------|
-| unix    | tomcat    | websphere | git     |
-| jenkins | sql       | java      | bash    |
-| python  | dynatrace | new relic | postman |
+
+<table>
+  <tr>
+    <td>linux</td>
+    <td>tomcat</td>
+    <td>websphere</td>
+    <td>git</td>
+  </tr>
+  <tr>
+    <td>jenkins</td>
+    <td>sql</td>
+    <td>java</td>
+    <td>bash</td>
+  </tr>
+  <tr>
+    <td>python</td>
+    <td>dynatrace</td>
+    <td>postman</td>
+    <td>aws</td>
+  </tr>
+</table>
 
 ### Languages
 
-**Turkish**: Native  
-**English**: B2
+**Turkish**: Native **English**: B2
 
 ## Education
 
-**Software Engineering** @ Beykent University _(2016 Sep - 2020 Sep)_  
+**Software Engineering** @ Beykent University _(2016 Sep - 2020 Sep)_
+
 **Computer Programming** @ Yıldız Technical University _(2011 Sep - 2013 Jun)_
